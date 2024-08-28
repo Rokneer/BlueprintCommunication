@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{B0A99108-4F41-40E8-28C7-67AD2BCD8594}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "MultiUserClient",
+			"Enabled": true
+		}
+	]
+}
